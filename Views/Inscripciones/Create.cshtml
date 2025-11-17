@@ -1,0 +1,71 @@
+﻿@model Registro_de_Inscripciones.Models.Inscripcion
+@{
+    ViewData["Title"] = "Crear Inscripción";
+}
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <h2>Registro de Inscripción</h2>
+
+            <form asp-action="Crear" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="mb-3">
+                    <label asp-for="Nombre" class="form-label"></label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Apellidos" class="form-label"></label>
+                    <input asp-for="Apellidos" class="form-control" />
+                    <span asp-validation-for="Apellidos" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Correo" class="form-label"></label>
+                    <input asp-for="Correo" class="form-control" />
+                    <span asp-validation-for="Correo" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Telefono" class="form-label"></label>
+                    <input asp-for="Telefono" class="form-control" />
+                    <span asp-validation-for="Telefono" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Taller" class="form-label"></label>
+                    <select asp-for="Taller" class="form-select" asp-items="new Microsoft.AspNetCore.Mvc.Rendering.SelectList(ViewBag.Talleres)"></select>
+                    <span asp-validation-for="Taller" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="NivelExperiencia" class="form-label"></label>
+                    <select asp-for="NivelExperiencia" class="form-select" asp-items="new Microsoft.AspNetCore.Mvc.Rendering.SelectList(ViewBag.Niveles)"></select>
+                    <span asp-validation-for="NivelExperiencia" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="FechaTaller" class="form-label"></label>
+                    <input asp-for="FechaTaller" class="form-control" type="date" />
+                    <span asp-validation-for="FechaTaller" class="text-danger"></span>
+                </div>
+
+                <div class="form-check mb-3">
+                    <input asp-for="AceptaTerminos" class="form-check-input" />
+                    <label asp-for="AceptaTerminos" class="form-check-label"></label>
+                    <span asp-validation-for="AceptaTerminos" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-success">Registrar</button>
+                <a asp-action="Index" class="btn btn-secondary ms-2">Volver al listado</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
