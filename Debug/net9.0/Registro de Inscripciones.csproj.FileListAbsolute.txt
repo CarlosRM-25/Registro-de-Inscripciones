@@ -1,0 +1,97 @@
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\Registro de Inscripciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\Registro de Inscripciones.AssemblyInfoInputs.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\Registro de Inscripciones.AssemblyInfo.cs
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\Registro de Inscripciones.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\Registro de Inscripciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\Registro de Inscripciones.RazorAssemblyInfo.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\Registro de Inscripciones.RazorAssemblyInfo.cs
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\bin\Debug\net9.0\appsettings.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\bin\Debug\net9.0\Registro de Inscripciones.staticwebassets.runtime.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\bin\Debug\net9.0\Registro de Inscripciones.staticwebassets.endpoints.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\bin\Debug\net9.0\Registro de Inscripciones.exe
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\bin\Debug\net9.0\Registro de Inscripciones.deps.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\bin\Debug\net9.0\Registro de Inscripciones.runtimeconfig.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\bin\Debug\net9.0\Registro de Inscripciones.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\bin\Debug\net9.0\Registro de Inscripciones.pdb
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\scopedcss\bundle\Registro de Inscripciones.styles.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\scopedcss\projectbundle\Registro de Inscripciones.bundle.scp.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\sef05y2rz7-b9sayid5wm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\vgrp0ykost-61n19gt1b8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\27bu8d07nk-xtxxf3hu2r.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\b1319yiwbg-bqjiyaj88i.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\ly5o2fmob5-c2jlpeoesf.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\sr6ggye4y9-erw9l3u2r3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\e7a7dzag7i-aexeepp0ev.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\vgf02d6un4-d7shbmvgxk.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\api6j7esdd-ausgxo2sd3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\uh46ex4iq5-k8d9w2qqmf.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\rjxagr675l-cosvhxvwiu.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\10mw0m20er-ub07r2b239.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\huauj4pwgb-fvhpjtyr6v.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\5f5iddkzjo-b7pk76d08c.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\owlyevpaio-fsbi9cje9m.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\zdv8svbib4-rzd6atqjts.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\ombtptrsz6-ee0r1s7dh0.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\dpsudto1f4-dxx9fxp4il.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\fbj7k7qkgu-jd9uben2k1.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\q4lfx5h6m0-khv3u5hwcm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\7cxues6zen-r4e9w2rdcm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\iqczdtdgf1-lcd1t2u6c8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\ao0dsq1gcj-c2oey78nd0.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\980wl1utpb-tdbxkamptv.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\01bls6bpco-j5mq2jizvt.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\bz0de9fom6-06098lyss8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\ven81mf2fb-nvvlpmu67g.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\iv9fjghbih-s35ty4nyc5.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\ri9ri95bxm-pj5nd1wqec.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\d104nz3hx1-46ein0sx1k.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\goc2ftvd0q-v0zj4ognzu.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\zy421gmrzt-37tfw0ft22.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\yxp3w2364v-hrwsygsryq.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\zeabpyxwn9-pk9g2wxc8p.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\f1d7m64xca-ft3s53vfgj.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\dbid5l247v-6cfz1n2cew.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\515mo2f71e-6pdc2jztkx.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\k63dalpvon-493y06b0oq.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\9oufhtgp03-iovd86k7lj.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\fpb5c5y8mc-vr1egmr9el.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\nhu21pr6qn-kbrnm935zg.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\x4oycdyr2e-jj8uyg4cgr.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\5o7mh1zwgk-y7v9cxd14o.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\dh42pji37g-notf2xhcfb.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\zqy4vy6gqw-h1s4sie4z3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\vs0cgig6u3-63fj8s7r0e.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\juzvb0d1kh-0j3bgjxly4.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\fdgo9370wj-47otxtyo56.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\od1bh44m2w-4v8eqarkd7.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\kat2rpjmba-356vix0kms.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\25cko6f52m-83jwlth58m.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\ygz66qqb8b-mrlpezrjn3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\y62wtjgbgq-lzl9nlhx6b.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\y4xwns89ko-ag7o75518u.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\1gemfj3686-x0q3zqp4vz.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\2kjrg0f841-0i3buxo5is.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\ou8o3ept9h-o1o13a6vjx.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\4a4ug2xico-ttgo8qnofa.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\hmy6nu63h4-2z0ns9nrw6.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\6p52van4h8-muycvpuwrr.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\n9dbuv9obm-87fc7y1x7t.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\voyhc4urvq-mlv21k5csn.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\4cj95jibt0-1omlw3rd3a.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\compressed\zyqrb6ioqp-1omlw3rd3a.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\Registro de Inscripciones.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\refint\Registro de Inscripciones.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\Registro de Inscripciones.pdb
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\Registro de Inscripciones.genruntimeconfig.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Registro de Inscripciones\obj\Debug\net9.0\ref\Registro de Inscripciones.dll
